@@ -30,9 +30,7 @@ Following are the steps for creating a local development environment for Donor9:
 
 7. Install requirements:
 
-    Pre-req for this step on Debian is installing `libpq-dev` and `python-dev` packages
-
-    pip install -r requirements.txt
+    pip install -r requirements_local.txt
 
 8. Sync DB:
 
